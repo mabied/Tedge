@@ -14,6 +14,9 @@ namespace ConsoleApplication2
 
             if (i > 1)
             {
+                i = 1;
+                i++;
+
             }
         }
     }
